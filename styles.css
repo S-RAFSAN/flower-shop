@@ -1,15 +1,18 @@
+* {
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
 .first-title {
     color: #272727;
-    font-family:sans-serif;
     font-size: 80px;
-    font-style: normal;
-    font-weight: 800;
+    font-weight: 900;
     line-height: normal;
 }
 
 .first-normal-text {
     color: rgba(39, 39, 39, 0.60);
-    font-family: sans-serif;
     font-size: 18px;
     font-style: normal;
     font-weight: 400;
@@ -39,6 +42,7 @@ header {
 }
 
 .featured-flower {
+    font-style: bold;
     text-align: center;
     justify-content: center;
     display: flex;
@@ -48,19 +52,16 @@ header {
 .second-title {
     margin-top: 150px;
     text-align: center;
-    font-family: sans-serif;
 }
 
 .second-normal-text {
     text-align: center;
     color: rgba(39, 39, 39, 0.60);
-    font-family: sans-serif;
     margin-bottom: 50px;
 }
 
 .pink-flower {
     text-decoration: underline;
-    font-family: sans-serif;
 }
 
 .text-primary {
@@ -98,7 +99,7 @@ header {
     display: flex;
     border-radius: 8px;
     background-color: #E554730D;
-    padding: 50px 50px ;
+    padding: 50px 50px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -106,7 +107,6 @@ header {
 
 .sign-up-description {
     text-align: center;
-    font-family: sans-serif;
 }
 
 .third-normal-text {
@@ -120,7 +120,6 @@ header {
 .instagram {
     margin-top: 150px;
     text-align: center;
-    font-family: sans-serif;
 }
 
 .fouth-normal-text {
@@ -161,7 +160,6 @@ header {
     padding: 18px 35px;
     border-radius: 5px;
     border: 10px;
-    font-family: sans-serif;
 }
 
 .latest-deals {
@@ -174,13 +172,13 @@ header {
     padding: 50px;
     margin-left: 200px;
     margin-right: 200px;
-    font-family: sans-serif;
 }
-.email-subs input[type="email"]{
+
+.email-subs input[type="email"] {
     width: 400px;
 }
 
-.coupon-text{
+.coupon-text {
     color: rgba(39, 39, 39, 0.60);
     margin-bottom: 40px;
 }
@@ -193,7 +191,6 @@ footer {
     border-radius: 5px;
     border: 0;
     padding: 100px 100px 100px 100px;
-    font-family: sans-serif;
 }
 
 .fifth-normal-text {
