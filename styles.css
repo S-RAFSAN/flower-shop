@@ -46,7 +46,7 @@ header {
 }
 
 .second-title {
-    margin-top: 200px;
+    margin-top: 150px;
     text-align: center;
     font-family: sans-serif;
 }
@@ -118,7 +118,7 @@ header {
 }
 
 .instagram {
-    margin-top: 200px;
+    margin-top: 150px;
     text-align: center;
     font-family: sans-serif;
 }
@@ -174,10 +174,15 @@ header {
     padding: 50px;
     margin-left: 200px;
     margin-right: 200px;
+    font-family: sans-serif;
 }
 .email-subs input[type="email"]{
     width: 400px;
+}
 
+.coupon-text{
+    color: rgba(39, 39, 39, 0.60);
+    margin-bottom: 40px;
 }
 
 
