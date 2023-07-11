@@ -165,7 +165,7 @@ header {
 }
 
 .latest-deals {
-    background-image: url('/Flower Asset/Rectangle.png');
+    background-image: url('../Flower Asset/Rectangle.png');
     text-align: center;
     background-size: cover;
     margin-top: 150px;
