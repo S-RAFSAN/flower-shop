@@ -1,0 +1,154 @@
+.first-title {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
+
+.first-normal-text {
+    color: rgba(39, 39, 39, 0.60);
+    font-family: Lato;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.btn-primary {
+    border-radius: 5px;
+    border: 0;
+    background: #E55473;
+    color: white;
+    font-size: 20px;
+    font-style: normal;
+    padding: 15px 35px;
+    background: #E55473;
+}
+
+.top-design {
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header {
+    background: rgba(229, 84, 115, 0.10);
+}
+
+.featured-flower {
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    margin-bottom: 200px;
+}
+
+.second-title{
+    margin-top: 200px;
+    text-align: center;
+    font-family: sans-serif;
+}
+.second-normal-text{
+    text-align: center;
+    color: rgba(39, 39, 39, 0.60);
+    font-family: sans-serif;
+    margin-bottom: 50px;
+}
+
+.pink-flower {
+    text-decoration: underline;
+}
+
+.text-primary {
+    color: #E55473;
+}
+
+.sign-up {
+    display: flex;
+    border-radius: 8px;
+    background-color: #E554730D;
+    padding: 30px 30px 0px 150px; 
+    display: flex;
+    align-items:center;
+    justify-content: center;
+}
+.sign-up-description{
+    text-align: center;
+    font-family: sans-serif;
+}
+.third-normal-text{
+    color: rgba(39, 39, 39, 0.60);
+}
+.sign-up-flower{
+    margin-left: 250px;
+}
+
+.instagram{
+    margin-top: 200px;
+    text-align: center;
+    font-family: sans-serif;    
+}
+
+.fouth-normal-text{
+    color: rgba(39, 39, 39, 0.60);
+}
+.instagram-pic{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.instagram-pic01{
+    margin-left: 150px;
+    margin-right: 25px;
+
+}
+.instagram-pic02{
+    margin-right: 25px;
+
+}
+.instagram-pic03{
+
+    margin-right: 25px;
+}
+.instagram-pic04{
+    margin-right: 150px;
+}
+.latest-deals input[type = "email"]{
+    
+    margin-bottom: 25px;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border: 10px;
+    font-family: sans-serif;    
+}
+.latest-deals{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.deals-image{
+    background-image: url('../flower-shop/fdgfdgfddfs/Rectangle.png');
+}
+
+footer{
+    text-align: center;
+    justify-content: center;
+    background-color: #111010;
+    border-radius: 5px;
+    border: 0;
+    padding: 100px 100px 100px 100px; 
+    font-family: sans-serif;
+}
+.fifth-normal-text{
+    font-size: smaller;
+    color:rgba(255, 255, 255, 0.90);
+}
+.copy-right{
+    font-size: smaller;
+    color: rgba(255, 255, 255, 0.40);
+}
+
