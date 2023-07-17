@@ -202,3 +202,15 @@ footer {
     font-size: smaller;
     color: rgba(255, 255, 255, 0.40);
 }
+ 
+/* responsive media */
+
+@media screen and (max-width:576px){
+    /* header{ */
+        .top-design {
+            flex-direction: column;
+        }
+        
+    /* } */
+    
+}
